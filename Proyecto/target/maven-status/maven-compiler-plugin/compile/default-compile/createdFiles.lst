@@ -1,0 +1,14 @@
+datos\AccesoDatosAdicImpl.class
+datos\ClsPeliculasJBDC.class
+com\mycompany\proyecto\Proyecto.class
+datos\AccesoDatoslmp.class
+dominio\Pelicula.class
+dominio\PeliculaAmpliado.class
+negocio\CatalogoPeliculasslmp.class
+datos\ClsConexiones.class
+Excepciones\AccesoDatosEx.class
+pelisplus\PeliculasPlus.class
+Excepciones\LecturaDatosEx.class
+datos\IAccesoDatos.class
+Excepciones\EscrituraDatosEx.class
+negocio\CatalogoPeliculas.class
